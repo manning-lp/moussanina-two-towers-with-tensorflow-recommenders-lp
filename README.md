@@ -7,15 +7,15 @@ This repository containg all the files required for you to begin this liveProjec
 **Data:** the `data` directory contains the following files:
 * `metadata.json`
 * `test_data.zip`
-* `train_data.z0*`, where `*` are numbers 0-9
+* `train_data.z*`, where `*` are numbers 0-9
 
 **Preparing the data:** 
 
 _Note: if you have successfully completed the previous project, you do not need the data in this repository - use the data you created throughout the project._
 
 1. Unzip `test_data.csv` from `test_data.zip`
-2. Next, you'll need to concatenate all training data files. Open the terminal and go to the directory where you saved the `train_data.z0*` files (run: `cd {your_directory}`)
-3. Run: `cat train_data.z0* > train_data.zip`. The `train_data.zip` file will now appear in that directory
+2. Next, you'll need to concatenate all training data files. Open the terminal and go to the directory where you saved the `train_data.z*` files (run: `cd {your_directory}`)
+3. Run: `cat train_data.z* > train_data.zip`. The `train_data.zip` file will now appear in that directory
 4. Unzip `train_data.csv` from `train_data.zip`
 
 ## Requirements:
