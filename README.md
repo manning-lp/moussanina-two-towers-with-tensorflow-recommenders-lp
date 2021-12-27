@@ -9,6 +9,8 @@ This repository containg all the files required for you to begin this liveProjec
 * `test_data.zip`
 * `train_data.z*`, where `*` are numbers 0-9
 
+**Link to download data file: https://lp-prod-resources.s3.us-west-2.amazonaws.com/866/train_data.zip**
+
 **Preparing the data:** 
 
 _Note: if you have successfully completed the previous project, you do not need the data in this repository - use the data you created throughout the project._
