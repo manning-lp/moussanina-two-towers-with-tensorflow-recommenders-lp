@@ -2,7 +2,7 @@
 Repository for liveProject: Two Towers with TensorFlow Recommenders. This is project #2 of the series _Real World Recommendations Systems_.
 
 ## What's in here:
-This repository containg all the files required for you to begin this liveProject:
+If you've completed project #1 of this series, you can use your own generated data. Otherwise, use these files:
 
 * `metadata.json`
 * `test_data.zip`
